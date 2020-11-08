@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lookingFerBooks/static/css/main.ce08fb2b.chunk.css",
+    "main.js": "/lookingFerBooks/static/js/main.ed732b82.chunk.js",
+    "main.js.map": "/lookingFerBooks/static/js/main.ed732b82.chunk.js.map",
+    "runtime-main.js": "/lookingFerBooks/static/js/runtime-main.a67a58f8.js",
+    "runtime-main.js.map": "/lookingFerBooks/static/js/runtime-main.a67a58f8.js.map",
+    "static/js/2.1ec30a61.chunk.js": "/lookingFerBooks/static/js/2.1ec30a61.chunk.js",
+    "static/js/2.1ec30a61.chunk.js.map": "/lookingFerBooks/static/js/2.1ec30a61.chunk.js.map",
+    "static/js/3.16faa4c9.chunk.js": "/lookingFerBooks/static/js/3.16faa4c9.chunk.js",
+    "static/js/3.16faa4c9.chunk.js.map": "/lookingFerBooks/static/js/3.16faa4c9.chunk.js.map",
+    "index.html": "/lookingFerBooks/index.html",
+    "static/css/main.ce08fb2b.chunk.css.map": "/lookingFerBooks/static/css/main.ce08fb2b.chunk.css.map",
+    "static/js/2.1ec30a61.chunk.js.LICENSE.txt": "/lookingFerBooks/static/js/2.1ec30a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67a58f8.js",
+    "static/js/2.1ec30a61.chunk.js",
+    "static/css/main.ce08fb2b.chunk.css",
+    "static/js/main.ed732b82.chunk.js"
+  ]
+}
